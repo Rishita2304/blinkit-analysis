@@ -1,8 +1,9 @@
 # ⚡ Blinkit Product Analysis
 
-A data analysis project exploring product performance, delivery patterns, and category insights for **Blinkit** (India's quick-commerce leader) using simulated 2024 order data.
+A data analysis project exploring product performance, delivery patterns, and category insights for **Blinkit**
+(India's quick-commerce leader) using simulated 2024 order data.
 
-> Built to demonstrate end-to-end data analysis skills — data generation, exploration, visualization, and business insight extraction.
+> Built to demonstrate end-to-end data analysis skills data generation, exploration, visualization, and business insight extraction.
 
 ---
 
@@ -27,21 +28,21 @@ A data analysis project exploring product performance, delivery patterns, and ca
 
 ### 💡 Business Insights
 
-1. **3 clear demand peaks** — 8am (morning essentials), 1pm (lunch), 9pm (night snacking). Rider fleet should pre-position 20 min before each peak.
+1. **3 clear demand peaks** : 8am (morning essentials), 1pm (lunch), 9pm (night snacking). Rider fleet should pre-position 20 min before each peak.
 
-2. **Snacks have the highest gross margin (43.7%)** — despite low AOV, they're the most profitable category per rupee of cost.
+2. **Snacks have the highest gross margin (43.7%)** : despite low AOV, they're the most profitable category per rupee of cost.
 
-3. **Baby & Kids has high AOV but high refund rate (2.4%)** — likely due to size/variant mismatch on diapers. Fixing the catalog could recover significant revenue.
+3. **Baby & Kids has high AOV but high refund rate (2.4%)** : likely due to size/variant mismatch on diapers. Fixing the catalog could recover significant revenue.
 
-4. **Top 5 SKUs contribute ~9% of total volume** — strong case for dedicated fast-pick zones in dark stores to cut pack time.
+4. **Top 5 SKUs contribute ~9% of total volume** : strong case for dedicated fast-pick zones in dark stores to cut pack time.
 
-5. **80% of deliveries happen between 6–15 minutes** — the 9-minute median aligns with Blinkit's "10 minutes" promise.
+5. **80% of deliveries happen between 6–15 minutes** : the 9-minute median aligns with Blinkit's "10 minutes" promise.
 
 ---
 
 ## 🗂️ Project Structure
 
-```
+
 blinkit-analysis/
 │
 ├── data/
@@ -81,9 +82,9 @@ python analysis.py
 ## 🛠️ Tech Stack
 
 - **Python 3.12**
-- **Pandas** — data manipulation & aggregation
-- **Matplotlib** — visualizations
-- **NumPy** — data simulation
+- **Pandas** : data manipulation & aggregation
+- **Matplotlib** : visualizations
+- **NumPy** : data simulation
 
 ---
 
@@ -99,9 +100,7 @@ The dataset is **synthetically generated** to simulate realistic Blinkit order p
 
 ## 👤 Author
 
-**[Your Name]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**Rishita Kaushik**  
 
----
 
 *This is a portfolio project. All data is simulated for analytical purposes.*
