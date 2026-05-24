@@ -36,7 +36,7 @@ A data analysis project exploring product performance, delivery patterns, and ca
 
 4. **Top 5 SKUs contribute ~9% of total volume** : strong case for dedicated fast-pick zones in dark stores to cut pack time.
 
-5. **80% of deliveries happen between 6–15 minutes** : the 9-minute median aligns with Blinkit's "10 minutes" promise.
+5. **80% of deliveries happen between 6 to 14 minutes** : the 9-minute median aligns with Blinkit's "10 minutes" promise.
 
 ---
 
